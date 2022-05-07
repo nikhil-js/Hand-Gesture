@@ -1,4 +1,3 @@
-Hand gesture recognition 
 This project is directed to recognise hand gestures using convolution neural networks.
 Motive of this project is to reduce the communication gap between a deaf persona and a person with no disability.
 There is a training dataset where all the images have been captured.
